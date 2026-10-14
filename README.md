@@ -88,9 +88,6 @@ The project focuses on combining fundamental chemistry concepts with web develop
 - Organized project pages.
 - Designed with educational use in mind.
 
-> Note: The available features depend on the current implementation of the project.
-
----
 
 ## 📂 Project Structure
 
