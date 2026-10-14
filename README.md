@@ -48,7 +48,6 @@ Ultimately, the Smart Chemistry Project aims to grow into a more comprehensive c
 ## 📖 About the Project
 
 Smart Chemistry Project is an educational web application developed to make learning chemistry easier, more interactive, and more engaging.
-
 Students can explore the periodic table, learn about chemical elements, and experiment with chemistry-related features through a simple web interface.
 
 The project focuses on combining fundamental chemistry concepts with web development to create a useful learning experience for students.
